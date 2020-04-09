@@ -1,2 +1,2 @@
-# Python-Projects
-Projects using python
+# Python-Scripts
+Scripts using python
